@@ -1,0 +1,9 @@
+{
+  "outer_tag": [
+    "<body>",
+    "</body>"
+  ],
+  "insert_flag": "upper",
+  "marked_tag": "</body>",
+  "insert_tag": "<hr class=\"hr_double\"><div class=\"div_footer\"><span class=\"link_space\"><a href=\"#top\">ページトップに戻る</a></span><span class=\"link_space\"><a href=\"/Home/indexh.html\">目次ページに戻る</a></span><span class=\"link_space\"><a href=\"/\">Topに戻る</a></span><a href=\"ChildPages/Inquiries.html\">お問い合わせ</a></div>"
+}
